@@ -1,0 +1,15 @@
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\bin\Debug\net6.0\LW1.exe
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\bin\Debug\net6.0\LW1.deps.json
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\bin\Debug\net6.0\LW1.runtimeconfig.json
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\bin\Debug\net6.0\LW1.dll
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\bin\Debug\net6.0\LW1.pdb
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.csproj.AssemblyReference.cache
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.AssemblyInfoInputs.cache
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.AssemblyInfo.cs
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.csproj.CoreCompileInputs.cache
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.dll
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\refint\LW1.dll
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.pdb
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\LW1.genruntimeconfig.cache
+C:\Users\diejester\Desktop\Учёба\Технологии программирования\LW1\obj\Debug\net6.0\ref\LW1.dll
